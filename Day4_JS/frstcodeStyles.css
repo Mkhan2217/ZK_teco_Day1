@@ -1,0 +1,51 @@
+body{
+    background-image:url("https://th.bing.com/th/id/R.f6a68c3afd7822b87736feef0f51c73e?rik=Z%2f%2b7lh2DqWeQjA&riu=http%3a%2f%2ffc05.deviantart.net%2ffs70%2fi%2f2013%2f303%2f7%2fd%2fwallpaper_javascript_programming_by_artgh-d6sf91g.jpg&ehk=1tZw3bKf7C2g6fuDQ%2bp66KppVfOEOzD%2fBgJJgNuLtxM%3d&risl=&pid=ImgRaw&r=0");
+    background-size: cover;
+    color: rgb(238, 206, 24);
+    font-weight: bold;
+}
+h1{
+    color: rgb(202, 31, 31);
+    border: 30px;
+    text-align: center;
+    padding: 20px;
+    background-color: black;
+    border-radius: 50px;
+    margin:25px;
+
+}
+p{
+    color: rgb(42, 226, 217);
+    background-color:rgb(114, 70, 5);
+    font-family: sans-serif;
+    font-weight: bold;
+    border-radius: 30px;
+    padding-left: 50px;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin-left: 50px;
+    margin-top: 150px;
+    text-align: center;
+    font-family: 'Segoe UI', Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: uppercase;
+    
+     
+}
+h3{
+    background-color: aquamarine;
+    font-weight: bold;
+    text-transform: capitalize;
+    margin-left: 20px;
+    padding-left: 20px;
+}
+button{
+    background-color: burlywood;
+    font-weight: bold;
+    text-transform: capitalize;
+    color: rgba(223, 35, 35, 0.774);
+    padding: 30px;
+    margin-left: 70px;
+}
+#demo{
+    background-color: rgb(26, 26, 75);
+}
